@@ -1,2 +1,4 @@
 # hello-world
-Just try
+Hello,
+I´m trying something new. 
+There is whole new world to explore!
